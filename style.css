@@ -1,0 +1,79 @@
+body{
+	background: #eee;
+  	background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
+
+}
+
+/*HEADER SECTION*/
+.headers {
+  background-color: #66bfbf;
+  margin: auto -16px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  padding-right: 3.25rem;
+  padding-left: 2rem;
+}
+
+.heading {
+  color: white;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+.tasktab{
+  margin-top:40px;
+  padding-top: 10px;
+  text-align: center;
+  background-color: #b7efcd;
+}
+
+.formbutton{
+  float: right;
+  min-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: #66bfbf;
+  color: #fff;
+  font-size: 30px;
+}
+
+textarea{
+  border: 3px solid #66bfbf;
+  border-radius:10px;
+  margin-top: 2rem;
+  background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
+}
+
+
+.newday{
+  min-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: #66bfbf;
+  color: #fff;
+  font-size: 30px;
+  padding-bottom: 6px;
+  border-width: 0;
+  margin-left: 650px;
+}
+
+
+/* footersection */
+footer {
+  position:relative;
+  text-align: center;
+  top:200px;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+a:link{color:grey;}
+a:visited{color:black;}
+a:hover{color:#66bfbf;}
+
